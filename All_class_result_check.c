@@ -3,7 +3,7 @@
 main()
 {
 int num,num1,sub1,sub2,sub3,sub4,sum,average,cla;
-printf("🚔This is all 🚔class🎃result🚔\n");
+printf("�This is all 🚔class🎃result🚔\n");
 printf("\n\nGo to next press the number\n");
 printf("\n1.School student\n2.College Student\n3.University student\n");
 printf("Press the number:");
