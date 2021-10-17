@@ -19,6 +19,7 @@ scanf("%d",&num1);
 switch(num1)
 {
 case 1:
+                fdsfsdfsdfsd
 printf("\n\nThis result is class 1 to 5");
 int bang,eng,math,rel,g,sum,aver,sci;
 printf("Enter your number of [Bangla]:");
